@@ -9,6 +9,12 @@
 -snap zones fuer 3D Modelle erstellen
 
 
+// Milestone 2:
+-Itegrierbare Buttons und Hebel in der Szene anlegen
+-Animierte Objekte in Unity damit triggern - Animator/State-Machine steuern
+
+
+
 
 
 
