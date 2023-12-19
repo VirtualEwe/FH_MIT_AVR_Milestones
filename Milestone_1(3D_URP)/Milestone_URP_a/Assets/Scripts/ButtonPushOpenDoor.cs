@@ -7,6 +7,7 @@ public class ButtonPushOpenDoor : MonoBehaviour
 {
     public Animator animator;
     public string boolName = "OpenB";
+    
 
     // Start is called before the first frame update
     void Start()
